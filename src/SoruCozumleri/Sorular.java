@@ -43,4 +43,18 @@ public class Sorular {
     Kullanıcıdan alınan bir sayının ilk ve son rakamlarını toplayan bir kod yazınız.
      */
 
+    /*
+    /* Günün sorusu: if statement
+      katsayıları verilen 1 bilinmeyenli denklemin kökleriniz bulunuz.
+        ax² + bx + c;
+
+        Çözüm adımları
+        kullanıcıdan a,b,c yi alın.
+        Diskriminant formülü: (-b +/- karekök(delta)) / (2a)
+        Delta = bb - 4ac
+        Delta > 0 => 2 tane kök vardır x1=(-b + kök(d)) / (2a)  , x2= (-b - kök(d)) / (2*a)
+        Delta = 0 => 1 tane kök vardır x = -b/2a
+        Delta < 0 ise kök yoktur.
+     */
+
 }
