@@ -57,4 +57,30 @@ public class Sorular {
         Delta < 0 ise kök yoktur.
      */
 
+    /*
+      Bir Array içerisindeki 'minimum', 'maksimum'  ve 'ikinci maksimum' değerleri bulan bir kod yazınız.
+        input: int[] arr = { 100, 10001, -90, 845, 8787, 898, 0, 1};
+        output: min:-90, max:10001, secMax: 8787
+     */
+
+    /*
+        Rastgele bir harf veren bir method oluşturun ve ardından methodu kullanarak aşağıdakileri yazdırınız.
+        ‘A’ ve ‘a’ için “İlk Karakter” yazdırınız.
+        ‘B’ ve ‘b’ için “İkinci Karakter” yazdırınız.
+        ‘C’ ve ‘c’ için “Üçüncü Karakter” yazdırınız.
+        ‘D’ ve ‘d’ için “Dördüncü Karakter” yazdırınız.
+        Diğerleri için “Diğer Karakterleri” yazdırınız.
+
+
+        Math.random();//0-1 arasında random double sayı verir.
+        System.out.println(Math.random()*10);//0-10 arasında bir sayı verir.
+
+         */
+
+
+     /*
+     Elementlerini kullanıcıdan alarak bir integer Array oluşturunuz.
+     Kullanıcıdan bir indeks alınız ve o indeksteki elementi siliniz.
+     */
+
 }
