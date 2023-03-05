@@ -83,4 +83,15 @@ public class Sorular {
      Kullanıcıdan bir indeks alınız ve o indeksteki elementi siliniz.
      */
 
+
+     /*
+		Şekli Yazdırınız:
+        A
+        B B
+        C C C
+        D D D D
+        E E E E E
+        F F F F F F
+        */
+
 }
