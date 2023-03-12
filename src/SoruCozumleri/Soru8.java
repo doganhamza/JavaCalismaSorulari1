@@ -2,7 +2,7 @@ package SoruCozumleri;
 
 import java.util.Arrays;
 
-public class soru8 {
+public class Soru8 {
     /*
       Bir Array içerisindeki 'minimum', 'maksimum'  ve 'ikinci maksimum' değerleri bulan bir kod yazınız.
         input: int[] arr = { 100, 10001, -90, 845, 8787, 898, 0, 1};

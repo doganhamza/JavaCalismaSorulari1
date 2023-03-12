@@ -2,7 +2,7 @@ package SoruCozumleri;
 
 import java.util.Scanner;
 
-public class soru3 {
+public class Soru3 {
     /*
     3-
     Yüzlük not cinsinden kullanıcıdan alınan notu harf not sistemine çeviren bir kod yazınız.(Ternary kullanınız)

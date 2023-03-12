@@ -1,6 +1,6 @@
 package SoruCozumleri;
 
-public class soru11 {
+public class Soru11 {
      /*
 		Şekli Yazdırınız:
         A

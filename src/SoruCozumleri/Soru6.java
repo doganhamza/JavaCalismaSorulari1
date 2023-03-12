@@ -2,7 +2,7 @@ package SoruCozumleri;
 
 import java.util.Scanner;
 
-public class soru6 {
+public class Soru6 {
     /*
         Kullanıcıdan alınan bir sayının ilk ve son rakamlarını toplayan bir kod yazınız.
      */

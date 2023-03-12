@@ -2,7 +2,7 @@ package SoruCozumleri;
 
 import java.util.Scanner;
 
-public class soru2 {
+public class Soru2 {
     /*
     Hipotenüs hesaplayan bir kod yazınız.
     a^2 + b^2=c^2

@@ -3,7 +3,7 @@ package SoruCozumleri;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class soru10 {
+public class Soru10 {
      /*
      Elementlerini kullanıcıdan alarak bir integer Array oluşturunuz.
      Kullanıcıdan bir indeks alınız ve o indeksteki elementi siliniz.

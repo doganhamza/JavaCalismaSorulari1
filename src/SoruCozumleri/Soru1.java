@@ -2,7 +2,7 @@ package SoruCozumleri;
 
 import java.util.Scanner;
 
-public class soru1 {
+public class Soru1 {
      /*1-
      Fahrenheit değeri, Celsius değere çeviren kod yazınız.
      formül: c = (f-32)*5/9 */

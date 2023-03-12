@@ -1,6 +1,6 @@
 package SoruCozumleri;
 
-public class soru9 {
+public class Soru9 {
     /*
         Rastgele bir harf veren bir method oluşturun ve ardından methodu kullanarak aşağıdakileri yazdırınız.
         ‘A’ ve ‘a’ için “İlk Karakter” yazdırınız.
